@@ -1,7 +1,7 @@
 # Dataedo_ConsoleApp
 
-Skrócone uwagi:
--brak obsługi nulli
--nazwa załączonego pliku z danymi
--brak pojedyńczych getterów i setterów, ogólna czystość kodu w ImportedObject
--indeksowanie listy od "0"
+### Skrócone uwagi:<br/>
+-brak obsługi nulli<br/>
+-nazwa załączonego pliku z danymi<br/>
+-brak pojedyńczych getterów i setterów, ogólna czystość kodu w ImportedObject<br/>
+-indeksowanie listy od "0"<br/>
